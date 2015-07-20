@@ -8,7 +8,6 @@ Explore is a generic environment for exploration of (semi) structured informatio
 Explore is grounded on the outcomes of the research project "Support for Exploration of Structured Data Repositories" carried out in the Google Brazil Research Program.
 
 The system dependencies for the setup of Explore is:
-* JRuby 1.7.15
-* Gems:
-** Rails 4.2.3
-** linkeddata 1.1.11
+* JRuby 1.7.15;
+* Rails 4.2.3;
+* linkeddata 1.1.11.
